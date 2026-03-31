@@ -1,4 +1,4 @@
-# PR Manager Service — Avito Test Task (Стажировка Осень 2025)
+# PR Manager Service
 
 Сервис для управления pull request’ами и назначениями ревьюеров внутри команд.
 
